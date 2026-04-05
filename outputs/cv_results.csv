@@ -1,0 +1,9 @@
+param_C,param_solver,mean_test_score,rank_test_score
+0.01,liblinear,0.69375,7
+0.01,lbfgs,0.5125,8
+0.1,liblinear,0.9125,5
+0.1,lbfgs,0.88125,6
+1.0,liblinear,0.975,3
+1.0,lbfgs,0.975,3
+10.0,liblinear,0.98125,1
+10.0,lbfgs,0.98125,1
